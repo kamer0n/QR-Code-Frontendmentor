@@ -1,0 +1,40 @@
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: #3d52a3; 
+}
+
+.bg {
+    background-color: #d5e1ef;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+
+}
+
+.qr {
+    background: #ffffff;
+    width: 16rem;
+    height: 26rem;
+    border-radius: 20px;
+    
+}
+
+.image {
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.qrText{
+    padding-right:2%;
+    padding-left: 2%;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
